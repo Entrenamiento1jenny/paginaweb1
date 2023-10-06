@@ -1,0 +1,169 @@
+
+                       /*ESTILOS PARA GRID BLAYOUT */
+
+/*body{
+
+	background: antiquewhite ;
+    font-family: Arial,helvetica, sans-serit;
+    text-align: center;
+}
+
+.grid-layout{  /*o contenedor*/
+   
+   /* height: 650xp;
+    display: grid;
+    grid-template-areas: 'cabecera cabecera'
+                         'menu menu'
+                         'contenido lateral'
+                         'footer footer';
+
+    grid-template-rows: 20% 15% auto 20% ;
+
+   /* grid-template-columns: 80% auto;
+     grid-template-rows: 20% 10% 60% auto;
+   /*justify-content: stretch ;
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;*/
+    /*background-color: lightgreen;
+    border: 1px solid black;
+    
+
+}    
+
+.caja{
+    
+    border: 4px solid black;
+    background-color: lightgray;
+    text-align: center;
+    padding: 20px;
+    
+}
+
+.c1{
+    grid-area: cabecera;
+    /*grid-area: 1/1/3/4; 
+    grid-column: 1/ span 2;*/
+   /* background-color: lightblue;
+
+}
+.c2{ 
+    grid-area: menu;
+    /*grid-column: 1 / span 2;*/
+   /* background-color:lightyellow;
+
+  }
+  .c3{
+    grid-area: contenido;
+    /*grid-auto-rows: 4/span 2;*/
+   /* background-color: lightsalmon;
+  }
+
+  .c4{
+    grid-area: lateral ;
+    /*grid-row: 4/span 2;*/
+    /*background-color: rgb(104,77,66);
+  }
+
+.c5{
+    grid-area: footer;
+     /*grid-column: 1/span 2;*/
+     /*Sbackground-color: lightpink;     
+}
+
+  /*.c9{ 
+   grid-row: 5/ span 7;
+    background-color: lightsalmon;
+    }
+
+  .c11{
+        grid-column:2/2 ;
+     }
+
+
+    .c12{  
+        grid-column: 1/2 span ;
+        background-color: lightblue;
+
+     }
+
+
+                        /* ESTILOS DE EJEMPLO*/
+
+                         /* SELECTORES BASICOS */
+
+/*estilos.css */
+
+/*h2 {
+
+    color: red;
+    background-color: aquamarine;
+    padding: 20px;
+    border: 5px solid black;
+    width: 400px;
+}
+
+                        /* SELECTORES AVANZADOS */  
+
+ /* article p {
+ 
+    font-style: italic;
+}
+
+ul > li {
+    list-style-type: square;
+}
+
+h2 + p {
+    margin-top: 20px;
+}
+
+p ~ span {
+    color: blue;
+}
+
+
+p {
+
+    text-align: justify; /* Alineación del texto al centro */
+   /* line-height: 1.5; /* Altura de línea para controlar el espacio entre líneas */
+   /* font-size: 14px;
+    color: #333;
+    font-weight: bold;
+}
+
+
+body {
+   
+}
+                   /* MODELO DE CAJA Y TIPOGRAFIA */
+
+/* .p {
+    
+    margin: 10px; /* Espacio exterior alrededor del párrafo */
+    /*padding: 5px; /* Espacio interior dentro de la caja del párrafo */
+    /*text-align: center; /* Alineación del texto al centro */
+    /*line-height: 1.5; /* Altura de línea para controlar el espacio entre líneas */
+
+}
+
+ 
+/*.caja {
+	
+    width: 500px; /* Ancho de la caja, tambien se puede en porcentaje */
+   /* height: 200px; /* Altura de la caja */
+  /*  border: 10px  dotted black; /*tambien solid black;  Borde de 2px sólido en color negro */
+  /*  padding: 10px; /* Espacio interno entre contenido y borde */
+  /*  margin: 50px ; /* Espacio externo alrededor de la caja */
+   /* display: inline-block	; /* lineas de bloques 	
+}
+
+
+@font-face{
+   font-family: titulo;
+   src: url("C/:VS_Online/ENTRENAMIENTO/fonts/DancingScript-Medium.ttf");
+}*/
+
+
+
+
